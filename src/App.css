@@ -1,14 +1,71 @@
 .content {
-  padding: 10px 500px;
-}
-
-.windows__binds {
   display: flex;
-  gap: 10px
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
 }
 
-.windows__icon-win {
+.content__title {
+  margin: 0;
+  font-size: 25px;
+}
+
+.content__sub-title {
+  margin-bottom: 60px;
+  font-size: 20px;
+}
+
+.container {
+  width: 700px;
+}
+
+
+.section__title {
+  font-size: 18px;
+}
+
+.section__instruction {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.section__step {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.section__paragraph {
+  margin-bottom: 5px;
+}
+
+.section__binds {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  background-color: rgba(128, 128, 128, 0.316);
+  padding-left: 10px;
+  border-radius: 5px;
+}
+
+.windows-icon {
   background-image: url(../src/image/windows.svg);
   width: 17px;
   height: 20px;
+}
+
+@media screen and (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .container {
+    width: 300px;
+  }
 }
