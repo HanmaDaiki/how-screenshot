@@ -1,0 +1,14 @@
+.content {
+  padding: 10px 500px;
+}
+
+.windows__binds {
+  display: flex;
+  gap: 10px
+}
+
+.windows__icon-win {
+  background-image: url(../src/image/windows.svg);
+  width: 17px;
+  height: 20px;
+}
