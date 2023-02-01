@@ -16,7 +16,7 @@
 1. HTML
 2. CSS
 3. БЭМ
-4. TypeScripte
+4. TypeScript
 5. React
 
 ## DEMO
