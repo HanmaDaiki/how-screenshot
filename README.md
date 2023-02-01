@@ -19,6 +19,10 @@
 4. TypeScript
 5. React
 
+## Статус Проекта
+
+Завершён!
+
 ## DEMO
 
 [Vercel](https://how-screenshot.vercel.app/)
