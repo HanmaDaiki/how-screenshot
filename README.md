@@ -5,10 +5,20 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
 </p>
 
-# О репозитории
+# How To ScreenShot
+
+## Описание
 
 Очень часто требуется увидеть экран собеседника, а он тебе фотграфирует свой монитор, чтобы ничего не объяснять, поделись полезной ссылкой.
 
-# Ссылка на сайт
+## Технологии
 
-https://how-screenshot.vercel.app/
+1. HTML
+2. CSS
+3. БЭМ
+4. TypeScripte
+5. React
+
+## DEMO
+
+[Vercel](https://how-screenshot.vercel.app/)
