@@ -7,4 +7,4 @@ const Container: React.FC<IContainerProps> = ({children}) => {
   );
 };
 
-export { Container }
+export { Container };
